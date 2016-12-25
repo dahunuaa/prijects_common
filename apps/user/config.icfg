@@ -1,0 +1,4 @@
+#model
+model : 'user'
+method : 'user'
+version : '0.0.1'

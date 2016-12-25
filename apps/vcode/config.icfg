@@ -1,0 +1,9 @@
+#model
+model : 'vcode'
+version : '0.0.1'
+
+allow_types : ['sms','email']
+max_msg_hourly : 6
+max_msg_day : 12
+pass_code : ['888888']
+default_expired_time : 10

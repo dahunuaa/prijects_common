@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: childstar\n"
+"POT-Creation-Date: 2016-09-23 10:56+0800\n"
+"PO-Revision-Date: 2016-09-23 15:25+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-Basepath: D:/python3products/products/childstar\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "Talent Registration Form"
+msgstr "会员注册信息表"
+
+msgid "The following info will be only used for creation of talent portfolio in our database and submission to clients for possible jobs."
+msgstr "**以下所搜集个人信息仅用于创建iStarKids童模童星俱乐部的数据库会员展示页,并只提供展示给有工作意向的客户浏览."
+
+msgid "Talent Chinese Name"
+msgstr "中文名"
+
+msgid "Talent English Name"
+msgstr "英文名"
+
+msgid "Gender"
+msgstr "性别"
+
+msgid "Male/boy"
+msgstr "男"
+
+msgid "Female/girl"
+msgstr "女"
+
+msgid "Date of Birth (YYYY/MM/DD)"
+msgstr "出生年月(年/月/日)"
+
+msgid "Hair color"
+msgstr "发色"
+
+msgid "Eye color"
+msgstr "眼睛颜色"
+
+msgid "Height (cm)"
+msgstr "身高(公分)"
+
+msgid "Shoe size"
+msgstr "鞋码"
+
+msgid "Body measurements (Bust/Waist/Hips, no need for child model)"
+msgstr "胸围-腰围-臀围 （童模可不填）"
+
+msgid "Nationality on passport"
+msgstr "护照国籍"
+
+msgid "Ethnicity (Caucasian/European,Asian,African,Middle East/North African,Indian,EuroAsian mix/AsianAfrican mix, Others)"
+msgstr "族裔 （选项:  欧美白人\\亚裔\\非洲裔\\中东北非\\印度\\欧亚混血\\亚非混血\\其他）"
+
+msgid "City&District （Shanghai/JingAn, Beijing/ChaoYang etc)"
+msgstr "居住城市及区域 （如上海静安区、北京朝阳区）"
+
+msgid "State"
+msgstr "省份"
+
+msgid "Country"
+msgstr "国家"
+
+msgid "Parent Name (For talent under 18 years old)"
+msgstr "家长姓名 （模特年龄如不满18岁）"
+
+msgid "Mobile phone#"
+msgstr "手机号码"
+
+msgid "E-mail"
+msgstr "常用邮箱"
+
+msgid "WeChat"
+msgstr "微信"
+
+msgid "Talent CV (Personality/Hobbies/Talents/Experiences/Awards etc.)"
+msgstr "模特艺人简介（性格、爱好、特长、演艺经验、得奖情况等）"
+
+msgid "**Upload photos/audio/videos, more info in portfolio means more chances for jobs! **"
+msgstr "上传图片/视频/音频资料，争取更多工作机会！**"
+
+msgid "List weblinks of your online photos/audio/videos"
+msgstr "如有在线照片/视频/音频资料,请把网络连接填在下面"
+
+msgid "Arts Talent"
+msgstr "艺术特长"
+
+msgid "Singing, Music instruments, Dancing, Calligraphy, Painting, Public speaking, Acting, Others (please remark)"
+msgstr "声乐、器乐、舞蹈、戏剧、书法、绘画,演讲,表演, 其他(请备注)"
+
+msgid "Language Skills"
+msgstr "语言特长"
+
+msgid "Chinese (Mother Language/Mid level/beginner), English (Mother Language/Mid level/beginner),Spanish (Mother Language/Mid level/beginner),Japanese (Mother Language/Mid level/beginner), German (Mother Language/Mid level/beginner), Others (Please remark)"
+msgstr "中文(母语/中级/初级),英语(母语/中级/初级), 西班牙语(母语/中级/初级),日语(母语/中级/初级),德语(母语/中级/初级),其他(请注明)"
+
+msgid "Sports Hobbies"
+msgstr "体育爱好"
+
+msgid "Skiing,Tennis,Bicycling,Skateboarding,basketball,baseball,soccer,football,running,rope jumping,yoga,gymnastics,others (Please list here.)"
+msgstr "滑雪,网球,骑车,滑板,棒球,橄榄球,足球,Sk跑步,跳绳,瑜伽,体操, 其他(请注明) "
+
+msgid "Make sure all above info are correct, then click below button to submit registration."
+msgstr "确认以上信息确认无误后，点击下方按钮完成注册。"
+
+msgid "It’s FREE to register membership."
+msgstr "*注册本俱乐部会员不收取任何费用. "
+
+msgid "Submit"
+msgstr "提交"
+
+msgid "Submitted successfully"
+msgstr "提交成功"

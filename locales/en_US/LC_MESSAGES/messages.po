@@ -1,0 +1,124 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: childstar\n"
+"POT-Creation-Date: 2016-09-23 10:56+0800\n"
+"PO-Revision-Date: 2016-09-23 10:56+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-Basepath: D:/python3products/products/childstar\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "Talent Registration Form"
+msgstr "Talent Registration Form"
+
+msgid "The following info will be only used for creation of talent portfolio in our database and submission to clients for possible jobs."
+msgstr "The following info will be only used for creation of talent portfolio in our database and submission to clients for possible jobs."
+
+msgid "Talent Chinese Name"
+msgstr "Talent Chinese Name"
+
+msgid "Talent English Name"
+msgstr "Talent English Name"
+
+msgid "Gender"
+msgstr "Gender"
+
+msgid "Male/boy"
+msgstr "Male/boy"
+
+msgid "Female/girl"
+msgstr "Female/girl"
+
+msgid "Date of Birth (YYYY/MM/DD)"
+msgstr "Date of Birth (YYYY/MM/DD)"
+
+msgid "Hair color"
+msgstr "Hair color"
+
+msgid "Eye color"
+msgstr "Eye color"
+
+msgid "Height (cm)"
+msgstr "Height (cm)"
+
+msgid "Shoe size"
+msgstr "Shoe size"
+
+msgid "Body measurements (Bust/Waist/Hips, no need for child model)"
+msgstr "Body measurements (Bust/Waist/Hips, no need for child model)"
+
+msgid "Nationality on passport"
+msgstr "Nationality on passport"
+
+msgid "Ethnicity (Caucasian/European,Asian,African,Middle East/North African,Indian,EuroAsian mix/AsianAfrican mix, Others)"
+msgstr "Ethnicity (Caucasian/European,Asian,African,Middle East/North African,Indian,EuroAsian mix/AsianAfrican mix, Others)"
+
+msgid "City&District （Shanghai/JingAn, Beijing/ChaoYang etc)"
+msgstr "City&District （Shanghai/JingAn, Beijing/ChaoYang etc)"
+
+msgid "State"
+msgstr "State"
+
+msgid "Country"
+msgstr "Country"
+
+msgid "Parent Name (For talent under 18 years old)"
+msgstr "Parent Name (For talent under 18 years old)"
+
+msgid "Mobile phone#"
+msgstr "Mobile phone#"
+
+msgid "E-mail"
+msgstr "E-mail"
+
+msgid "WeChat"
+msgstr "WeChat"
+
+msgid "Talent CV (Personality/Hobbies/Talents/Experiences/Awards etc.)"
+msgstr "Talent CV (Personality/Hobbies/Talents/Experiences/Awards etc.)"
+
+msgid "**Upload photos/audio/videos, more info in portfolio means more chances for jobs! **"
+msgstr "**Upload photos/audio/videos, more info in portfolio means more chances for jobs! **"
+
+msgid "List weblinks of your online photos/audio/videos"
+msgstr "List weblinks of your online photos/audio/videos"
+
+msgid "Arts Talent"
+msgstr "Arts Talent"
+
+msgid "Singing, Music instruments, Dancing, Calligraphy, Painting, Public speaking, Acting, Others (please remark)"
+msgstr "Singing, Music instruments, Dancing, Calligraphy, Painting, Public speaking, Acting, Others (please remark)"
+
+msgid "Language Skills"
+msgstr "Language Skills"
+
+msgid "Chinese (Mother Language/Mid level/beginner), English (Mother Language/Mid level/beginner),Spanish (Mother Language/Mid level/beginner),Japanese (Mother Language/Mid level/beginner), German (Mother Language/Mid level/beginner), Others (Please remark)"
+msgstr "Chinese (Mother Language/Mid level/beginner), English (Mother Language/Mid level/beginner),Spanish (Mother Language/Mid level/beginner),Japanese (Mother Language/Mid level/beginner), German (Mother Language/Mid level/beginner), Others (Please remark)"
+
+msgid "Sports Hobbies"
+msgstr "Sports Hobbies"
+
+msgid "Skiing,Tennis,Bicycling,Skateboarding,basketball,baseball,soccer,football,running,rope jumping,yoga,gymnastics,others (Please list here.)"
+msgstr "Skiing,Tennis,Bicycling,Skateboarding,basketball,baseball,soccer,football,running,rope jumping,yoga,gymnastics,others (Please list here.)"
+
+msgid "Make sure all above info are correct, then click below button to submit registration."
+msgstr "Make sure all above info are correct, then click below button to submit registration."
+
+msgid "It’s FREE to register membership."
+msgstr "It’s FREE to register membership."
+
+msgid "Submit"
+msgstr "Submit"
+
+msgid "Submitted successfully"
+msgstr "Submitted successfully"
+
+

@@ -1,0 +1,19 @@
+# DATABASE CONFIG
+#Mongo
+mongo : {
+    host: localhost
+    port: 27017
+    database: projects
+    user: projects
+    password: projectsAdmin
+}
+
+#Mongo auth
+mongo_auth : False
+
+#Redis
+redis : {
+    host: localhost
+    port: 6379
+    db: 0
+}

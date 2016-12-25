@@ -1,0 +1,10 @@
+#model
+model : 'scope'
+version : '0.0.1'
+scope_roles : ['frontend','backend','report','admin','superuser']
+
+init_scope : {
+    "system" : "base",
+    "name" : "base_superuser",
+    "roles" : ['frontend','backend','report','admin','superuser']
+}

@@ -1,0 +1,3 @@
+#model
+model : 'oauth'
+version : '0.0.4'

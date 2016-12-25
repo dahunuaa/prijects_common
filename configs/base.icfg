@@ -1,0 +1,42 @@
+# BASE CONFIG
+#Basic
+domain : "www.projects.top"
+port : 8500
+debug : False
+compress_response : True
+serve_traceback : True
+login_url : "https://lcoalhost/login"
+root_path : `root_path`
+domain_url : "http://" + $domain + ":8500"
+
+#Info
+model : "base"
+version : "0.1.0"
+desc : ""
+
+#SCOPES
+scope_roles : ['frontend','backend','admin','root']
+
+#SYSTEM
+systems : ['base','projects','daemon']
+
+#KEY
+cookie_secret : "ADSDADSDADASDSAD"
+xsrf_cookies : False
+SIGN_KEY : '87B2447B04E5AA93F00C21A5B98F32A0'
+
+#DEFAUT SETTING
+default_expired_time : 24
+
+#Page
+page_size : 15
+page_show : 10
+
+#Database
+db : @"db.icfg"
+
+#Email
+email : @"email.icfg"
+
+#PATH
+path : @"path.icfg"

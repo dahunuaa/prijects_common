@@ -1,0 +1,10 @@
+# EMAIL CONFIG
+
+###smtp配置
+smtp : {
+    host: '192.168.1.98'
+    user: 'cmsregistration@donghuicredit.com'
+    password: Donghuicms123
+    duration: 30
+    tls: True
+}

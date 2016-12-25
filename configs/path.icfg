@@ -1,0 +1,12 @@
+# PATH CONFIG
+
+#log path
+root_path : `root_path`
+ftp : $root_path + "/static/ftp"
+log : $root_path + "/var/logs"
+
+icon_uri : "/static/icons"
+icon : $root_path + $icon_uri
+
+assets_uri : "/static/assets"
+assets : $root_path + $assets_uri
